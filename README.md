@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&fontAlign=50&fontAlignY=40&height=300&section=header&text=Hello%20!&desc=I'm%20Jihwan&descAlign=50&descAlignY=60&descSize=50&rotate=0&fontSize=50&animation=twinkling&theme=onedark)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&&fontAlign=70&fontAlignY=31&height=300&section=header&text=Hello%20!&desc=I'm%20Jihwan&descAlign=70&descAlignY=43&descSize=38&rotate=20&fontSize=60&animation=twinkling&theme=onedark)
 
 
 <br>
