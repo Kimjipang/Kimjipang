@@ -1,8 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Jihwan&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&&fontAlign=70&fontAlignY=31&height=300&section=header&text=Hello%20!&desc=I'm%20Jihwan&descAlign=70&descAlignY=43&descSize=28&rotate=20&fontSize=50&animation=twinkling&theme=onedark)
 
-<p>
-</p>
+
+<br>
 
 <div align=center>
 <h3>
