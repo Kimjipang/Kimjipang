@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=👋%20Hello%20It's%20JiHwan%20Kim&fontSize=40&animation=twinkling&theme=onedark)
-<hr>
+<hr style="height: 1px; background-color: #555; border: none;">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kimjipang&theme=tokyonight" alt="Anurag's GitHub stats">
 </div>
-<hr>
+<hr style="height: 1px; background-color: #555; border: none;">
+
 
 <div>
 <h3>
@@ -29,7 +31,8 @@
 <br>
 </div>
 
-<hr>
+<hr style="height: 1px; background-color: #555; border: none;">
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimjipang">
 </p>
